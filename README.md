@@ -18,7 +18,7 @@
 <p align="left">
   <a href="https://discordapp.com/users/252257872413589514"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.instagram.com/__alechu/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-F77737?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/alejo-fernández-luisi-69079b213"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/alejo-fernández-luisi-69079b213"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ## 👨‍💻 (Some of the) Languages and Tools I know:
