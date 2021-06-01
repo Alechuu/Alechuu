@@ -21,7 +21,7 @@
   <a href=""><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-## 👨‍💻 Languages and Tools I know:
+## 👨‍💻 (Some of the) Languages and Tools I know:
 
 <table>
     <tbody>
