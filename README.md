@@ -8,7 +8,7 @@
 * 🌍 I'm from Argentina
 * 💻 I'm a full stack web developer
 * 🎨 I'm a self-taught UI/UX designer
-* 🏢 I'm currently working full time at <a href="https://frontiniyasoc.com.ar/">Frontini y asoc.</a>
+* 🏢 I'm currently working full time at <a href="https://www.spider-investments.com/">Spider Investments</a>
 * 🎓 I'm a Computer Science student at <a href="https://info.unlp.edu.ar">UNLP</a> (Currently at my 8th semester)
 * 👨‍💻 I'm currently learning <a href="https://nextjs.org/">Next.js</a> 
 
