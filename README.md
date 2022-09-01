@@ -7,7 +7,6 @@
 
 * 🌍 I'm from Argentina
 * 💻 I'm a full stack web developer
-* 🎨 I'm a self-taught UI/UX designer
 * 🎓 I'm a Computer Science student at <a href="https://info.unlp.edu.ar">UNLP</a> (Currently at my 8th semester)
 
 
